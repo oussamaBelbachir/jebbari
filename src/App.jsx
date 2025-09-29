@@ -101,7 +101,7 @@ export default function App() {
 
         <h1 style={{ margin: 0, fontSize: 26 }}>{colleagueName}</h1>
         <p style={{ marginTop: 6, marginBottom: 24, color: "#555", fontSize: 15 }}>
-          Démission posée le{" "}
+          Démission déposée le
           <strong>
             {resign.toLocaleDateString("fr-FR", { timeZone: "Africa/Casablanca" })}
           </strong>
