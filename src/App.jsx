@@ -5,7 +5,7 @@ const resignationDate = "2025-09-19";
 const noticeMonths = 2;               
 const colleagueName = "Ahmed Jebbari"; 
 const colleagueImage =
-  "https://media.licdn.com/dms/image/v2/D4E03AQFbFKscdzJhJw/profile-displayphoto-shrink_800_800/B4EZS2gYmeHgAg-/0/1738228732244?e=1761782400&v=beta&t=pn2CEqoEYpveo7s6SSXG5EL3GVchUA1K8344yydgx5M";
+  "https://media.licdn.com/dms/image/v2/D4E03AQFbFKscdzJhJw/profile-displayphoto-shrink_400_400/B4EZS2gYmeHgAk-/0/1738228732244?e=1763596800&v=beta&t=9HNNpciqc8VdLBXNzLf7V1pLZloxqSLXv3fh8Qa8iFM";
 const companyLogo =
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qpZYRecBy-CBW_cCQoaPc6YxAvNIrXQbWA&s";
 // ----------------------------------------
